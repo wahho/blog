@@ -2,7 +2,7 @@
 ## はじめに
 * 初回であれば、シーン4>3>1>2の優先順位で場所取りをすると良いと思います。
 * YouTubeに動画を上げてくださった[黒澤辰昭さん](https://www.youtube.com/channel/UCZ6t51HjKvMmMX3JMdLrF5Q)に感謝！
-* YouTubeの[広角撮影/OMOIYARI TO YOU 初回公演](http://youtu.be/tsoWcwL2aNs)もスクリーン下～時計台下階段の確認には便利です。
+* YouTubeの[広角撮影/OMOIYARI TO YOU 初回公演](http://youtu.be/tsoWcwL2aNs)もDT前～スクリーン下正面～時計台下階段の確認には便利です。
 * 完全な宣伝ですが[初日ラッキィ池田さん、ミミィ、メルの振り付け講座](http://youtu.be/tN7QrrkH7ps)も可愛いです。
 
 ----------
