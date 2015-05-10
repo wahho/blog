@@ -4,7 +4,7 @@
 * TweenのPublicSearch機能で「#VoteSanrio -RT」を検索した結果をソースとしています。(取得漏れ等で反映されなかった人ごめんなさい)
 * 集計期間は2015年5月10日10時(投票開始時刻)より同日24時までの全8571Tweet(去年グループリーグ初日は7505Tweet)です。(実際は11日0時30分程度にログを取得して、手動で11日Tweet分を削除しています)
 * 単位は厳密にはTweetですが主に文字数を減らすため「票」にしています。
-* ちなみに利用ツールは去年と同じく[Tween](https://sites.google.com/site/tweentwitterclient/home)とTeraPad(http://www5f.biglobe.ne.jp/~t-susumu/library/tpad.html)のみです。(Excelとか無いので手動で気合でやってます)
+* ちなみに利用ツールは去年と同じく[Tween](https://sites.google.com/site/tweentwitterclient/home)と[TeraPad](http://www5f.biglobe.ne.jp/~t-susumu/library/tpad.html)のみです。(Excelとか無いので手動で気合でやってます)
 * わっほー☆の手間の都合上「サンリオキャラクター大賞で(キャラ名)」で始まるTweetのみを集計対象とします。(後半にコメント追加は構いません)
 * 0票を除く91キャラ分のリストは長いのでこのページの最後に回しました。(さらにその後にわっほー☆の感想があります)
 * 今年のTweet一番乗りは[原稿したほうがいいさんのトライクロニカ](https://twitter.com/rig22/status/597204486734499840)でした！
