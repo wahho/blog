@@ -179,7 +179,7 @@
 ----------
 
 ## 途中集計
-* 途中集計は投票開始翌日と毎週木曜日に更新。日付の情報は[TURFYLAND(https://turfy.jp/sansen/index.html)より。
+* 途中集計は投票開始翌日と毎週木曜日に更新。日付の情報は[TURFYLAND](https://turfy.jp/sansen/index.html)より。
 
 ### 5月11日(票数なし)
 * 01位,シンガンクリムゾンズ
