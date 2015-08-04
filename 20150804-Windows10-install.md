@@ -19,9 +19,9 @@
 
 ### PCIe-eSATA*2ボードをWin10で認識させる
 * AREA SD-PESA3ES2L (http://www.area-powers.jp/product/pcie/sata/pesa3es2l.html)
-* ASMedia asm-106xチップセット使用  
-http://www.necacom.net/index.php/asm/asm-106x-sata/9031-asmedia-106x-sata-6g-controller-driver-ver-3-0-2-0000-whql  
-asmedia_106x_3.0.2.zip
+* ASMedia asm-106xチップセット使用
+  http://www.necacom.net/index.php/asm/asm-106x-sata/9031-asmedia-106x-sata-6g-controller-driver-ver-3-0-2-0000-whql
+  asmedia_106x_3.0.2.zip
 
 ----------
 
