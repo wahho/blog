@@ -17,7 +17,7 @@ JAWS-UG初心者支部 第6回勉強会
 ### ハンズラボ 吉田さん
 
 * AWSにはたくさんのサービスがある、そしてGUIには載ってなくてもCLIで調べるともっとたくさんある(廃止されたように見えて昔のサービスも使える)
-* (AWS公式)AWS Black Belt Tech WebinarやAWSクラウドサービス活用資料集(https://aws.amazon.com/jp/aws-jp-introduction/)を読もう
+* (AWS公式)AWS Black Belt Tech Webinarや[AWSクラウドサービス活用資料集](https://aws.amazon.com/jp/aws-jp-introduction/)を読もう
 * 本やAWS-UGの資料もおすすめ
 * (本)AWS実践入門や(スライド書き写せなかった、ゴメン！)
 
