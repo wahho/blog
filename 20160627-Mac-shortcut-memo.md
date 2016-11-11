@@ -42,6 +42,20 @@ Mac ショートカットメモ
 * [cmd]+[shift]+[I(アイ)] iCloud Drive
 * [cmd]+[opt]+[L] ダウンロードフォルダ([opt]キー注意)
 
+
+### Chrome
+
+* [cmd]+[←]or[→] ページを戻る/進む
+* [cmd]+[↓]or[↓] ページの最初/最後に移動
+* [cmd]+[opt]+[←]or[→] 隣のタブに切り替える
+* [cmd]+[opt]+[I] 要素の検証
+* [cmd]+[L] アドレスバーに移動
+* [cmd]+[shift]+[T] 最後に閉じたタブを開く
+
+### Terminal
+
+* [cmd]+[T] 新しいタブ
+
 ### テキスト入力
 
 * [cmd]+[↑(先頭)]or[↓(文末)]or[←]or[→] カーソル移動
@@ -58,3 +72,4 @@ Mac ショートカットメモ
 * [Mac をより便利に使いこなすためのキーボードショートカット10項目](http://www.msng.info/archives/2014/12/mac-keyboard-shorotucuts.php)
 
 [Apple Care(日本の電話)](tel:+81-120-277-535)
+
