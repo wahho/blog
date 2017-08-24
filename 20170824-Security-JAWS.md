@@ -1,8 +1,6 @@
 20170824-Security-JAWS.md
 -----
 
-
-
 ### 概要
 
 * https://s-jaws.doorkeeper.jp/events/63540
@@ -11,7 +9,6 @@
 
 * TW: https://twitter.com/security_jaws
 * ハッシュタグは#secjaws #secjaws06
-
 
 −−−−−
 
