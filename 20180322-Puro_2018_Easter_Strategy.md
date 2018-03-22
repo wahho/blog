@@ -50,3 +50,6 @@
 
 * 出演：ウィッシュミーメル、ハローキティ、マイメロディ、ぼんぼんりぼん、シナモン、ポムポムプリン、バニーズダンサーズ
 * 文章制作： わっほー☆ [Twitter @wahho](https://twitter.com/wahho)
+* 資料用広角撮影動画(DT2階)： https://www.youtube.com/watch?v=O5IAn0M-K_o
+* SpecialThanks(初日動画メルヘン前,死角の参考に)： https://www.youtube.com/watch?v=40PmMdI1_6k
+* ピューロランド公式初日中継(大スクリーン下)： https://twitter.com/purolandjp/status/976390631542046726
