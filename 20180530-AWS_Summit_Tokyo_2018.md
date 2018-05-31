@@ -7,7 +7,7 @@
 * 会場：　グランドプリンスホテル新高輪（国際館パミール、飛天）
 * 主催：　アマゾン ウェブ サービス ジャパン株式会社
 * https://www.awssummit.tokyo/tokyo/
-* TW : #AWSSummit
+* TW : #AWSSummit [アマゾン ウェブ サービス公式アカウント](https://twitter.com/awscloud_jp)
 
 -----
 
