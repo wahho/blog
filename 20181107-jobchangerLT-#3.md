@@ -5,12 +5,14 @@
 
 * https://ex-sier.connpass.com/event/104766/
 * 2018年11月7日
-* [Twitter](https://twitter.com/search?q=%23jobchanger)
+* [Twitter : #jobchanger](https://twitter.com/search?q=%23jobchanger)
 
 -----
 
 ### ブレイド会場スポンサーLT
 
+* https://speakerdeck.com/jumtech/itbentiyafalsecai-yong-dan-dang-gahua-subentiyazhuan-zhi-falseshi-tai
+* https://speakerdeck.com/monry/technic-of-changing-job
 * 「スキルは誤差」向いていれば
 * とはいえ30代以上だと現状のスキルも重要
 * ベンチャーも色々、一人の力で社風変わることもある
@@ -28,6 +30,7 @@
 
 * TwitterとGitHubはデザイナーでも使おう
 * エンジニアならプロフィールもあると良い
+  * スマート履歴書 [proff](https://proff.io/)
 * scouty - 転職を少しでも考えているなら
 * YOUTRUST - 副業ベースからジョイン、社風があえば
 * SmartHR の採用情報 - 給料統計とか生のデータが手に入る
@@ -47,6 +50,7 @@
 
 ### あわな️インフラ女子(@a_w_a_n_a)さん
 
+* https://speakerdeck.com/awnkm23/jobchanger3
 * 私の人生私の物
 * 転職を決めるまで
 * 最初は安泰だった
@@ -85,6 +89,7 @@
 
 ### 筋肉CTO まさたん(@ma3tk)さん
 
+* https://speakerdeck.com/ma3tk/jobchanger-lt-engineer-nayami-solve-findy-muscle
 * 話さないこと「筋トレの話」
 
 #### 不安な時に行うこと
