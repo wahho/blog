@@ -6,12 +6,14 @@
 * 日時: 令和元年(2019年)5月14日（火）19:30〜22:30 (開場19:00 完全撤収23:00)
 * 住所 東京都品川区上大崎2-13-30 oak meguro 8階 アカツキさん
 * https://connpass.com/event/128275/
-* https://twitter.com/search?q=%23GCP
+* #GCP https://twitter.com/search?q=%23GCP
+* #酒ゲー https://twitter.com/hashtag/%E9%85%92%E3%82%B2%E3%83%BC?src=hash
 
 -----
 
-### 乾杯とGCP事例ご紹介 by アカツキ高尾？さん
+### 乾杯とGCP事例ご紹介 by アカツキ坂尾さん
 
+* https://twitter.com/sachaos
 * (すみません、途中からです)
 * カナリアインストール
     * APIは正しくても組み合わせとか負荷でエラーが出る
