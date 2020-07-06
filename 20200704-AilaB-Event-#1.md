@@ -1,6 +1,8 @@
 ﻿20200704-AilaB-Event-#1.md
 -----
 
+## 副業・転職から模索するエンジニアキャリアLT会
+
 ### 概要
 
 * 2020年7月4日 16時
@@ -8,7 +10,7 @@
 * 低カロ西村さん主催
 * 10分枠が6分で終わった
 * https://ailab-corp.connpass.com/event/180647/
-* (Twitter : #engineer_jobs)[https://twitter.com/search?q=%23engineer_jobs]
+* [Twitter : #engineer_jobs](https://twitter.com/search?q=%23engineer_jobs)
 
 -----
 
@@ -226,4 +228,3 @@
 * わっほー☆
 * https://twitter.com/wahho
 * 低カロ西村さんのおかげで7月就職出来ました！
-
